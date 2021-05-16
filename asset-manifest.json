@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/How-to-Deploy-React-app-on-Github/static/css/main.e05e9c07.chunk.css",
+    "main.js": "/How-to-Deploy-React-app-on-Github/static/js/main.cbf7764e.chunk.js",
+    "main.js.map": "/How-to-Deploy-React-app-on-Github/static/js/main.cbf7764e.chunk.js.map",
+    "runtime-main.js": "/How-to-Deploy-React-app-on-Github/static/js/runtime-main.16184cf8.js",
+    "runtime-main.js.map": "/How-to-Deploy-React-app-on-Github/static/js/runtime-main.16184cf8.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/How-to-Deploy-React-app-on-Github/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.98465e23.chunk.js": "/How-to-Deploy-React-app-on-Github/static/js/2.98465e23.chunk.js",
+    "static/js/2.98465e23.chunk.js.map": "/How-to-Deploy-React-app-on-Github/static/js/2.98465e23.chunk.js.map",
+    "index.html": "/How-to-Deploy-React-app-on-Github/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/How-to-Deploy-React-app-on-Github/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.e05e9c07.chunk.css.map": "/How-to-Deploy-React-app-on-Github/static/css/main.e05e9c07.chunk.css.map",
+    "static/js/2.98465e23.chunk.js.LICENSE.txt": "/How-to-Deploy-React-app-on-Github/static/js/2.98465e23.chunk.js.LICENSE.txt",
+    "static/media/activecs.f761834c.png": "/How-to-Deploy-React-app-on-Github/static/media/activecs.f761834c.png",
+    "static/media/cocase.7c82da7f.png": "/How-to-Deploy-React-app-on-Github/static/media/cocase.7c82da7f.png",
+    "static/media/codeath.dfa42c6f.png": "/How-to-Deploy-React-app-on-Github/static/media/codeath.dfa42c6f.png",
+    "static/media/covercs.02ddfa68.png": "/How-to-Deploy-React-app-on-Github/static/media/covercs.02ddfa68.png",
+    "static/media/location.4a472c7f.png": "/How-to-Deploy-React-app-on-Github/static/media/location.4a472c7f.png",
+    "static/media/register.15f5de55.png": "/How-to-Deploy-React-app-on-Github/static/media/register.15f5de55.png",
+    "static/media/slot.4f7e602a.png": "/How-to-Deploy-React-app-on-Github/static/media/slot.4f7e602a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16184cf8.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.98465e23.chunk.js",
+    "static/css/main.e05e9c07.chunk.css",
+    "static/js/main.cbf7764e.chunk.js"
+  ]
+}
