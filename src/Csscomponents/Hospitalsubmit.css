@@ -1,0 +1,66 @@
+
+.container h3{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: #091f41bb;
+    margin-bottom: 30px;
+    
+}
+.hospitalform,
+.hospitaldata{
+    background-color: #f0f8ff;
+    padding: 20px;
+    border-radius: 5px;
+}
+.hoinfo{
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 7px;
+    border: 1px solid #f4f5f7;
+}
+.hoinfo::placeholder{
+    font-family: 'Inter', sans-serif;
+    color: #091f41bb;
+    font-size: 14px;
+    padding: 10px;
+}
+.hospitalform select{
+    padding: 9px;
+    width: 100%;
+    border: 1px solid #f4f5f7;
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color: #091f41bb;
+}
+.hospitalform button{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    background-color: #0C6CF2;
+    border-radius: 5px 5px;
+    border: none;
+    color: #ffffff;
+    padding: 8px 10px 8px 10px;
+    
+}
+.hospitaldata h4{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #091f41bb;
+    margin-bottom: 10px;
+}
+.hospitaldata p{
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    color: #091f41bb;
+}
+.hospitaldata ol{
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    color: #091f41bb;
+    margin-top: -5px;
+}

@@ -1,0 +1,65 @@
+body{
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+}
+.col2App{
+  border-right: 3px solid #f2f2f2;
+  padding-top: 20px;
+  background-color: #f6f6f6;
+}
+.col10App{
+  padding: 30px;
+  background-color: rgb(255, 255, 255);
+}
+.cod-col{
+  border: 1px solid #f2f2f2;
+  width: 260px;
+  height: 270px;
+  margin: 6px;
+  padding: 15px;
+  background-color: #f9e064;
+  border-radius: 5px;
+}
+.cod-col h3{
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 25px;
+  margin-bottom: 18px;
+}
+.cod-col p{
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 10px;
+  background-color: #fef7ef;
+  padding: 14px;
+  border-radius: 5px;
+ 
+}
+.peoples{
+  font-size: 10px;
+  font-weight: 500;
+}
+
+html{
+  margin: 0;
+  padding: 0;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #b6b6b6;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(211, 211, 211);
+}

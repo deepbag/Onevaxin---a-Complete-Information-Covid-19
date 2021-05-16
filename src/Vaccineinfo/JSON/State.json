@@ -1,0 +1,150 @@
+[
+    {
+        "label": "Andaman and Nicobar Islands", 
+        "value": 1
+    },
+    {
+        "label": "Andhra Pradesh", 
+        "value": 2
+    },
+    {
+        "label": "Arunachal Pradesh", 
+        "value": 3
+    },
+    {
+        "label": "Assam", 
+        "value": 4
+    },
+    {
+        "label": "Bihar", 
+        "value": 5
+    },
+    {
+        "label": "Chandigarh", 
+        "value": 6
+    },
+    {
+        "label": "Chhattisgarh", 
+        "value": 7
+    },
+    {
+        "label": "Dadra and Nagar Haveli", 
+        "value": 8
+    },
+    {
+        "label": "Delhi", 
+        "value": 9
+    },
+    {
+        "label": "Goa", 
+        "value": 10
+    },
+    {
+        "label": "Gujarat", 
+        "value": 11
+    },
+    {
+        "label": "Haryana", 
+        "value": 12
+    },
+    {
+        "label": "Himachal Pradesh", 
+        "value": 13
+    },
+    {
+        "label": "Jammu and Kashmir", 
+        "value": 14
+    },
+    {
+        "label": "Jharkhand", 
+        "value": 15
+    },
+    {
+        "label": "Karnataka", 
+        "value": 16
+    },
+    {
+        "label": "Kerala", 
+        "value": 17
+    },
+    {
+        "label": "Ladakh", 
+        "value": 18
+    },
+    {
+        "label": "Lakshadweep", 
+        "value": 19
+    },
+    {
+        "label": "Madhya Pradesh", 
+        "value": 20
+    },
+    {
+        "label": "Maharashtra", 
+        "value": 21
+    },
+    {
+        "label": "Manipur", 
+        "value": 22
+    },
+    {
+        "label": "Meghalaya", 
+        "value": 23
+    },
+    {
+        "label": "Mizoram", 
+        "value": 24
+    },
+    {
+        "label": "Nagaland", 
+        "value": 25
+    },
+    {
+        "label": "Odisha", 
+        "value": 26
+    },
+    {
+        "label": "Puducherry", 
+        "value": 27
+    },
+    {
+        "label": "Punjab", 
+        "value": 28
+    },
+    {
+        "label": "Rajasthan", 
+        "value": 29
+    },
+    {
+        "label": "Sikkim", 
+        "value": 30
+    },
+    {
+        "label": "Tamil Nadu", 
+        "value": 31
+    },
+    {
+        "label": "Telangana", 
+        "value": 32
+    },
+    {
+        "label":  "Tripura", 
+        "value": 33
+    },
+    {
+        "label": "Uttar Pradesh", 
+        "value": 34
+    },
+    {
+        "label": "Uttarakhand", 
+        "value": 35
+    },
+    {
+        "label": "West Bengal", 
+        "value": 36
+    },
+    {
+        "label": "Daman and Diu", 
+        "value": 37
+    }
+]

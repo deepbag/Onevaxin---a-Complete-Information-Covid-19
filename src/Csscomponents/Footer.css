@@ -1,0 +1,35 @@
+.container-book-footer{
+    width: auto;
+    padding-top: 15px;
+    background-color: #121d33;
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+}
+.container-book-footer p{
+    font-family: "Inter", sans-serif;
+    color: white;
+    font-size: 15px;
+    line-height: 25px;
+}
+a {
+    color: white;
+}
+a:hover{
+    color: #ff8b38;
+    text-decoration: none;
+}
+span{
+    color: red;
+}
+
+@media (max-device-width: 480px){
+    .container-book-footer p{
+        font-family: "Inter", sans-serif;
+        color: white;
+        font-size: 15px;
+        line-height: 25px;
+        text-align: center;
+    }
+}

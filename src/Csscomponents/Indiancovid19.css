@@ -1,0 +1,139 @@
+.container h3{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: #091f41bb;
+    margin-bottom: 20px;
+}
+.totaldata{
+    border: 1px solid #f7f7f7;
+    width: 260px;
+    height: auto;
+    margin: 6px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    -webkit-box-shadow: 0px 3px 19px -16px rgba(163,163,163,1);
+    -moz-box-shadow: 0px 3px 19px -16px rgba(163,163,163,1);
+    box-shadow: 0px 3px 19px -16px rgba(163,163,163,1);
+}
+.totaldata h3{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: #091f41bb;
+    font-size: 19px;
+    font-weight: 500;
+    margin-top: 5px;
+}
+.totaldata h2{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 900;
+    font-family: 'Inter', sans-serif;
+    color: #091f41bb;
+    margin-top: -20px;
+}
+.totaldata p{
+    text-align: center;
+    color: #091f41bb;
+}
+.dataone{
+    border-top: 8px solid #ffcc01;
+}
+.datatwo{ 
+    border-top: 8px solid #69ce70;
+}
+.datathree{ 
+    border-top: 8px solid #f23f2d;
+}
+.datafour{ 
+    border-top: 8px solid #69ce70;
+}
+.datafive{ 
+    border-top: 8px solid #69ce70;
+}
+.blink {
+    animation: blinker 1s step-start infinite;
+    color: #f23f2d;
+    font-size: 15px;
+  }
+  
+  @keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }
+  .blinkcovid {
+    animation: blinkercovid 1s step-start infinite;
+    color: #f23f2d;
+    font-size: 10px;
+  }
+  
+  @keyframes blinkercovid {
+    50% {
+      opacity: 0;
+    }
+  }
+
+
+  .note{
+      background-color: #69ce70cb;
+      border-radius: 5px;
+      margin-bottom: 10px;
+      
+  }
+  .note p{
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+  }
+
+
+  .vaccine h2{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    color: #091f41bb;
+    margin-bottom: 0;
+    text-align: center;
+  }
+  .vaccine{
+    margin-top: 30px;
+    background-color: #f0f8ff;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-radius: 5px;
+  }
+  .getvaccined{
+    background-color: white;
+    padding: 18px;
+    border-radius: 5px;
+    margin-top: 30px;
+    border-bottom: 8px solid #ffcc01;
+  }
+  .getvaccined h4{
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+    /* color: #091f41bb; */
+    text-align: center;
+    background-color: #ffcc01af;
+    padding: 7px;
+    border-radius: 5px;
+    margin: 0 15px 10px 15px;
+  }
+  .getvaccined p{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #091f41bb;
+    text-align: center;
+  }
+  .registervacc{
+    color: #0c6cf2;
+    font-size: 17px;
+    text-decoration: none;
+  }

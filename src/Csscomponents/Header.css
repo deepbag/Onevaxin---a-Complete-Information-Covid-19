@@ -1,0 +1,87 @@
+.header{
+    width: auto;
+    height: 70px;
+    padding: 20px;
+    background-color: #121d33;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+}
+.brand{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    text-decoration: none;
+} 
+.bd{
+    text-decoration: none;
+}
+.bd:hover{
+    text-decoration: none;
+}
+.navdek{
+    margin-right: 15px;
+    color: #b1b8c7;
+    font-family: 'Karla', sans-serif;
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.navdek:hover{
+    color: white;
+    text-decoration: none;
+} 
+.navdek:active{
+    color: #ffffff;
+    text-decoration: underline;
+}
+.navmob{
+    display: block;
+    color: black;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 35px;
+}
+
+.mob-menu{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    height: auto;
+    padding-right: 100px;
+    padding-left: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+.btn-bar{
+    border: none;
+    border-radius: 2px;
+    padding: 2px;
+}
+
+@media (max-device-width: 480px){
+    .navmenu{
+        display: none;
+    }
+}
+@media (min-device-width: 480px){
+    .popbtn{
+        display: none;
+    }
+}
+
+.navmenu button{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    background-color: #0C6CF2;
+    border-radius: 5px 5px;
+    border: none;
+    color: #ffffff;
+    padding: 5px 10px 5px 10px;
+    margin-left: 10px;
+}
+

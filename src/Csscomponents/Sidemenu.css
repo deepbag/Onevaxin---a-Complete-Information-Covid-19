@@ -1,0 +1,36 @@
+.colside{
+    margin: 10px 10px;
+    padding: 20px; 
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border-top: 8px solid #0C6CF2;
+    -webkit-box-shadow: 0px 3px 19px -16px rgba(163,163,163,1);
+    -moz-box-shadow: 0px 3px 19px -16px rgba(163,163,163,1);
+    box-shadow: 0px 3px 19px -16px rgba(163,163,163,1);
+} 
+.navlink{
+    display: block;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 700;
+    margin: 10px 10px;
+    padding: 0; 
+    color: #091f41bb;
+    padding-left: 12px;
+    text-decoration: none;
+} 
+.navlink:hover{
+    color: #0C6CF2;
+    text-decoration: none;
+} 
+.colside h4{
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+}
+.hopub {
+    color: #f23f2d;
+    font-size: 10px;
+  }
+  
